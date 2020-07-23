@@ -25,3 +25,5 @@ En este documento encontrará el Libro de códigos para la descripción de las v
 	          : Se define como el conjunto de datos con la media y la desviación estándar para cada medición
 15. tidy_avg : It defines as an ordered data set with the average of each variable for each activity and each subject.
 	     : Define como un conjunto de datos ordenado con el promedio de cada variable para cada actividad y cada sujeto.
+16. Tidy_Data : Data set for a cleaning data 
+	      : Variable de marco de datos para datos limpios	
